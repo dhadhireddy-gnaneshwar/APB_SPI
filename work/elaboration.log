@@ -1,0 +1,33 @@
+Riviera-PRO 2023.04.112.8911(Linux64) 2025-04-24 07:31:04
+
+Elaboration top modules:
+Verilog Module                axi_tb
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+axi_tb                  | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+axi_top                 | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+axi_master              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+axi_slave               | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+top                     | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+bridge                  | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+spi_top                 | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+APB_master              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+APB_slave               | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Spi_master              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+Spi_slave               | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition

@@ -1,0 +1,109 @@
+timestamp=1745494263962
+
+[~A]
+LastVerilogToplevel=axi_tb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*4257*13808
+
+[~MFT]
+0=14|0work.mgf|13808|0
+1=12|1work.mgf|47764|0
+3=24|3work.mgf|39057|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c921667bc056c6bddd013d7eafd00752bd6f3
+
+[APB_master]
+A/APB_master=22|../apb.sv|45|1*20787
+BinL64/APB_master=3*18636
+R=../apb.sv|45
+SLP=3*21447
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|b309818ddfebd3dc1929cc655fb61d9dffd5639fe89bc7f519721e966847571a1fdaac62d2d34ba5d11ce116fc36cdcd
+
+[APB_slave]
+A/APB_slave=22|../apb.sv|170|1*24955
+BinL64/APB_slave=3*22673
+R=../apb.sv|170
+SLP=3*23749
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|d00c827ef73807796599914e009f3a43f90f5b83f6fe48b2f8b8a4b70318b8bf318f30c5bef94f3aeb37247a666791df
+
+[Spi_master]
+A/Spi_master=22|../spi.sv|24|1*34582
+BinL64/Spi_master=3*30885
+R=../spi.sv|24
+SLP=3*33666
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|741f90776d1c9071e1be83cafcb08a4666126cda297aa0d3d3fb354d9ff282fe1fdaac62d2d34ba5d11ce116fc36cdcd
+
+[Spi_slave]
+A/Spi_slave=22|../spi.sv|134|1*37896
+BinL64/Spi_slave=3*34782
+R=../spi.sv|134
+SLP=3*36760
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|b04d7790a9557ab9deae9f795b65965fdfc7522c7c3381981427e4f29033fa88a5b4acd83417e67664dc094c526871ca
+
+[axi_master]
+A/axi_master=22|../master.sv|1|1*374
+BinL64/axi_master=3*174
+R=../master.sv|1
+SLP=3*4239
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|21cd7ce28b6a6cbefe42f3fa598c1ca52680bdf0491f0e064130354114f93685776eb8b8e89205650dfdfe438d391728
+
+[axi_slave]
+A/axi_slave=22|../slave.sv|1|1*6705
+BinL64/axi_slave=3*6251
+R=../slave.sv|1
+SLP=3*13837
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|eabf18e165ea85d8f7a9300ddf0e2e1a486e58ba119ad2ce997f4e6f54a40fddfbdeb0e59fb17947ac8b3d1da3b979da
+
+[axi_tb]
+A/axi_tb=22|../testbench.sv|3|1*47764
+BinL64/axi_tb=3*37875
+R=../testbench.sv|3
+SLP=3*39057
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|a47360e429dc7668a1993c9bf13e8fdab54d1b903a621068f8dc2faec839536c
+
+[axi_top]
+A/axi_top=22|../design.sv|9|1*40482
+BinL64/axi_top=3*37539
+R=../design.sv|9
+SLP=3*37647
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|84ee458530dcceb10c265b1ea09370d326527262ddaa47cb266f3a3c4d9b973a7cb6847dd0f33c0c74d318f6763ecd85
+
+[bridge]
+A/bridge=22|../bridge.sv|1|1*27196
+BinL64/bridge=3*24274
+R=../bridge.sv|1
+SLP=3*28345
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|bf324d84dc2d3f79e58f8656a53fcaabb7f1068558e217984b951e137f8d340b
+
+[spi_top]
+A/spi_top=22|../spi.sv|3|1*32624
+BinL64/spi_top=3*30514
+R=../spi.sv|3
+SLP=3*30724
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|af2b1ed698627a9732a2210598306c1026527262ddaa47cb266f3a3c4d9b973a8631ca6da5cbb0e5f2c6e3c5003ef813
+
+[top]
+A/top=22|../apb.sv|1|1*16336
+BinL64/top=3*18135
+R=../apb.sv|1
+SLP=3*18239
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|f1fdecad8dc292011c024b8d633bc5c702db2565965ba4e70013f89314d05d02
+
+[~U]
+$root=12|0*0|
+APB_master=12|0*1684|
+APB_slave=12|0*2092|
+Spi_master=12|0*3102|
+Spi_slave=12|0*3424|
+axi_master=12|0*230|
+axi_slave=12|0*733|
+axi_tb=12|0*4044||0x10
+axi_top=12|0*3685|
+bridge=12|0*2429|
+spi_top=12|0*2831|
+top=12|0*1315|

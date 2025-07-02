@@ -1,0 +1,28 @@
+Riviera-PRO 2023.04.112.8911(Linux64) 2025-01-01 23:12:06
+
+Elaboration top modules:
+Verilog Module                tb
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+tb                      | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+APB_SPI_TOP             | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+APB_MASTER              | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+SPI_CONTROLLER_TX       | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+SPI_SLAVE               | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+SPI_CONTROLLER          | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
